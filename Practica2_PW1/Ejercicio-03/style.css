@@ -1,0 +1,14 @@
+section {
+    min-height: 100px;
+
+}
+
+.header-section {
+    background-color: lightblue;
+}
+.content-section {
+    background-color: lightgreen;
+}
+.footer-section {
+    background-color: lightcoral;
+}
